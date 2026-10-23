@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="74 74 126 108">
+
+  <style>svg{color:#333} @media(prefers-color-scheme:dark){svg{color:#f4f4ef}}</style>
+  <!-- 円（トランス型の切れ目付き） -->
+  <path
+    d="M 160.527 95.473 A 46 46 0 0 1 101.615 165.681"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="4.4"
+    stroke-linecap="butt" />
+
+  <path
+    d="M 95.473 160.527 A 46 46 0 0 1 154.385 90.319"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="4.4"
+    stroke-linecap="butt" />
+
+  <!-- 斜線 -->
+  <path d="M 80.765 178.346 L 178.346 80.765 L 175.235 77.654 L 77.654 175.235 Z" fill="currentColor" />
+
+  <!-- ドット -->
+  <rect
+    x="189"
+    y="165"
+    width="6"
+    height="6"
+    fill="currentColor" />
+</svg>

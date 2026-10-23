@@ -1,0 +1,8 @@
+/* STIX Two Math, SIL OFL 1.1. See STIX-OFL.txt. */
+@font-face {
+  font-family: 'STIX Two Math';
+  src: url('./stix-two-math.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
